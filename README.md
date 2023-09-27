@@ -1,5 +1,3 @@
-# Presentation
-
 ## Sources
 
 1. [Service-Oriented Architecture (SOA) - TechTarget](https://www.techtarget.com/searchapparchitecture/definition/service-oriented-architecture-SOA)
